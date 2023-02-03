@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\bin\Debug\StackAndHeapApp.exe.config
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\bin\Debug\StackAndHeapApp.exe
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\bin\Debug\StackAndHeapApp.pdb
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\obj\Debug\StackAndHeapApp.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\obj\Debug\StackAndHeapApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\obj\Debug\StackAndHeapApp.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\obj\Debug\StackAndHeapApp.exe
+C:\Users\Медиацентр\source\repos\StackAndHeapApp\StackAndHeapApp\obj\Debug\StackAndHeapApp.pdb
